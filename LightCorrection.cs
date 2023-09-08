@@ -6,7 +6,6 @@ public class LightCorrection : MonoBehaviour
 {
     public RenderTexture tex;
     public Light mainlight;
-    public ReflectionProbe reflect;
     private int _width;
     private int _height;
     public Color avgcolor;
